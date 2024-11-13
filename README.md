@@ -16,9 +16,9 @@ The Travel Blog backend project is designed to handle requests for creating, rea
 
 ## Features
 
-Post Management: Allows users to add new travel posts, update existing posts, and delete posts.
-Database Integration: Uses PostgreSQL as the database to store blog posts.
-RESTful API: Provides a well-structured API for managing blog posts, enabling frontend interaction.
+- Post Management: Allows users to add new travel posts, update existing posts, and delete posts.
+- Database Integration: Uses PostgreSQL as the database to store blog posts.
+- RESTful API: Provides a well-structured API for managing blog posts, enabling frontend interaction.
 
 ## API Endpoints
 
